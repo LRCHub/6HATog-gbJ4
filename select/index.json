@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "シュプレヒコール",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-02-24T09:44:17.637809Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シュプレヒコール",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_シュプレヒコール_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シュプレヒコール 〜世界が終わる前に〜",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/02_シュプレヒコール_〜世界が終わる前に〜_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シュプレヒコール ～世界が終わる前に～",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/03_シュプレヒコール_~世界が終わる前に~_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シュプレヒコール",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_シュプレヒコール_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シュプレヒコール",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/05_シュプレヒコール_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シュプレヒコール〜世界が終わる前に〜",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/06_シュプレヒコール〜世界が終わる前に〜_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シュプレヒコール",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_シュプレヒコール_RADWIMPS.txt"
+    }
+  ]
+}
